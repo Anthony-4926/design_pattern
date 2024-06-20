@@ -1,0 +1,1 @@
+package single_responsibility_principle
