@@ -1,4 +1,4 @@
-package simple_factory_pattern
+package def
 
 const (
 	Unknown = iota
